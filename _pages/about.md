@@ -1,18 +1,21 @@
 ---
 permalink: /
-title: "Zehuan Zhang"
-excerpt: "About me"
+title: "张泽欢"
+excerpt: "简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a second year PhD student in the Department of Computing at lmperial College London, supervised by [Prof. Wayne Luk](https://www.imperial.ac.uk/people/w.luk). My research interests focus on hardware system and machine learning. I obtained my Master degree (supervised by [Prof. Qiang Liu](https://dblp.org/pid/61/3234-11.html)) at 2022 and Bachelor degree at 2019 from Tianjin University. My current research includes:
-* Bayesian Neural Network
-* Complex-Valued Neural Network
-* Medical Imaging
-* Hardware Acceleration
+
+我是伦敦帝国学院计算机系的二年级博士研究生，导师是[陆永青](https://cs.pku.edu.cn/info/1010/1096.htm)教授([Prof. Wayne Luk](https://www.imperial.ac.uk/people/w.luk))。我的研究兴趣集中在硬件系统和机器学习上。我在2022年和2019年从天津大学取得了硕士学位（导师是[刘强](http://sme.tju.edu.cn/info/1093/1933.htm)教授）和学士学位。我目前的研究方向：
+* 贝叶斯神经网络
+* 复值神经网络
+* 医学成像
+* 硬件加速
+
+
 
 
 
