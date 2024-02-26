@@ -6,8 +6,8 @@ main:
   - title: "活动"
     url: /activities/    
   
-  - title: "荣誉"
-    url: /awards/     
+  # - title: "荣誉"
+  #   url: /awards/     
 
   # - title: "Teaching"
   #   url: /teaching/    
