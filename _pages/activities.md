@@ -15,6 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Teaching Assistant
+助教
 ====
-* **Introduction to Computer Architecture**, Imperial College London, Spring Term, 2024
+* **计算机架构导论**, 帝国理工学院, 春季学期, 2024
