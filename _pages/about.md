@@ -11,7 +11,7 @@ redirect_from:
 
 我是伦敦帝国学院计算机系的二年级博士研究生，导师是[陆永青](https://cs.pku.edu.cn/info/1010/1096.htm)教授([Prof. Wayne Luk](https://www.imperial.ac.uk/people/w.luk))。我的研究兴趣集中在硬件系统和机器学习上。我在2022年和2019年从天津大学取得了硕士学位（导师是[刘强](http://sme.tju.edu.cn/info/1093/1933.htm)教授）和学士学位。我目前的研究方向：
 * 贝叶斯神经网络
-* 复值神经网络
+* 复数神经网络
 * 医学成像
 * 硬件加速
 
@@ -24,13 +24,13 @@ redirect_from:
 新闻!
 ======
 
-&ensp; 2024/02 一篇关于可信人工智能硬件加速的论文被DAC'24接受！
+&ensp; 2024/02 一篇关于可信人工智能硬件加速的论文被DAC'24录用！
 
-&ensp; 2024/02 一篇论文被ISMRM'24接受！
+&ensp; 2024/02 一篇论文被ISMRM'24录用！
 
-&ensp; 2023/04 我作为博士研究生入学伦敦帝国学院。
+&ensp; 2023/04 我入学帝国理工学院攻读博士学位。
 
-&ensp; 2023/02 一篇论文被ISMRM'23接受！
+&ensp; 2023/02 一篇论文被ISMRM'23录用！
 
 
 <!-- A data-driven personal website
