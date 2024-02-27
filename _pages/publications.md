@@ -22,7 +22,7 @@ author_profile: true
 
 **Hardware-Aware Neural Dropout Search for Reliable Uncertainty Prediction on FPGA** \
 <u>Zehuan Zhang</u>, Hongxiang Fan, Hao (Mark) Chen, Lukasz Dudziak and Wayne Luk \
-*DAC*, 2024
+*DAC (CCF-A)*, 2024
 
 **Acceleration of T2\* mapping on an MR Linac using a self-supervised convolutional neural network** \
 Albert Ugwudike, <u>Zehuan Zhang</u>, Wajiha Bano, Alison Tree, Wayne Luk, Andreas Wetscherek \
