@@ -10,19 +10,22 @@ redirect_from:
 
 
 我是伦敦帝国学院计算机系的二年级博士研究生，导师是[陆永青](https://cs.pku.edu.cn/info/1010/1096.htm)教授([Prof. Wayne Luk](https://www.imperial.ac.uk/people/w.luk))。我的研究兴趣集中在硬件系统和机器学习上。我在2022年和2019年从天津大学取得了硕士学位（导师是[刘强](http://sme.tju.edu.cn/info/1093/1933.htm)教授）和学士学位。我目前的研究方向：
-* 贝叶斯神经网络
-* 复数神经网络
-* 医学成像
-* 硬件加速
 
+面向 AI 的高效硬件系统设计:
+* 可信 AI 算法的加速器设计
+* 复值神经网络的可重构硬件架构设计
+* 大语言模型的异构加速方法
 
-
+面向高效硬件系统设计的 AI 算法设计
+* 可重构加速器的软硬件协同设计
+* 基于大语言模型的硬件设计自动化
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 新闻!
 ======
+&ensp; 2025/06 荣幸担任 Transactions on Reconfigurable Technology and Systems 审稿人！
 
 &ensp; 2024/02 一篇关于可信人工智能硬件加速的论文被DAC'24录用！
 
