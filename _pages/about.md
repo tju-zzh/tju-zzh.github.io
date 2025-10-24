@@ -27,6 +27,8 @@ redirect_from:
 ======
 &ensp; 2025/06 荣幸担任 Transactions on Reconfigurable Technology and Systems 审稿人！
 
+&ensp; 2024/05 一篇关于医疗成像的硬件加速论文被ASAP'24录用！
+
 &ensp; 2024/02 一篇关于可信人工智能硬件加速的论文被DAC'24录用！
 
 &ensp; 2024/02 一篇论文被ISMRM'24录用！
